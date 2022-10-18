@@ -28,5 +28,5 @@ I'm an enthusiastic Developer & Working with new Technogies is my Passion !
 
  **Connect with Me**
 
-[<img align="left" alt="LinkedIn - Tejas Kumar" width="60px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/TejasKumar2009)
+[<img align="left" alt="LinkedIn - Tejas Kumar" width="60px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/tejas-kumar-044681226/)
 
