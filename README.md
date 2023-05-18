@@ -30,3 +30,6 @@ I'm an enthusiastic Developer & Working with new Technogies is my Passion !
 
 [<img align="left" alt="LinkedIn - Tejas Kumar" width="60px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/tejas-kumar-044681226/)
 
+ **My Github Stats**
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TejasKumar2009)](https://github.com/TejasKumar2009/github-readme-stats)
+
